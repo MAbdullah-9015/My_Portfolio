@@ -327,12 +327,12 @@ img {
   width: 85%;
 }
 
-.skills__js {
+.skills__django {
   width: 65%;
 }
 
-.skills__ux {
-  width: 85%;
+.skills__flutter {
+  width: 100%;
 }
 
 .skills__img {
